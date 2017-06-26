@@ -1,0 +1,5 @@
+g status
+g add <file name>
+g commit -m "<message>"
+g status
+g push origin <branch name>
